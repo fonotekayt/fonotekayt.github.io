@@ -16,7 +16,7 @@ Insert the following code in the `head` section of your pages:
     <link rel="icon" type="image/png" sizes="16x16" href="/ico/favicon-16x16.png">
     <link rel="manifest" href="/ico/site.webmanifest">
     <link rel="mask-icon" href="/ico/safari-pinned-tab.svg" color="#2d89ef">
-    <link rel="shortcut icon" href="/ico/favicon.ico">
+    <link rel="shortcut icon" href="/favicon.ico">
     <meta name="msapplication-TileColor" content="#2d89ef">
     <meta name="msapplication-TileImage" content="/ico/mstile-144x144.png">
     <meta name="msapplication-config" content="/ico/browserconfig.xml">
